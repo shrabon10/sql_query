@@ -39,4 +39,16 @@
 | [1942-primary-department-for-each-employee](https://github.com/shrabon10/sql_query/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/shrabon10/sql_query/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shrabon10/sql_query/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shrabon10/sql_query/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shrabon10/sql_query/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shrabon10/sql_query/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
